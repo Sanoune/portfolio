@@ -25,7 +25,7 @@ export default function Navbar() {
             <li className="flex sm:flex-row flex-col items-center gap-1">
               <FaRegUserCircle size={24} />
               <a
-                href="/cv-aba-sarah.pdf"
+                href="./cv-aba-sarah.pdf"
                 download="SarahAba_DeveloppeuseFrontEnd"
               >
                 CV

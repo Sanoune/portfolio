@@ -8,7 +8,7 @@ import Skills from "../components/Skills";
 
 export default function Home() {
   return (
-    <div className="bg-customGray  sm:m-12 m-3 rounded-4xl ">
+    <div className="bg-customGray rounded-4xl ">
       <div className="bg-white border-2 border-white rounded-4xl ">
         <div className="bg-customGray rounded-4xl p-2">
           <Navbar />
